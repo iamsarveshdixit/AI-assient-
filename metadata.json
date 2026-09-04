@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "A real-time, voice-to-voice sassy AI assistant powered by the Gemini Live API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
